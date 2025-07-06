@@ -6,7 +6,7 @@
 
 ## Структура проєкту
 ```
-goit-algo2-hw-05/
+woolf-algo2-hw-05/
 ├── bloom_filter.py
 ├── ip_counter.py
 ├── main.py
